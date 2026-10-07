@@ -12,4 +12,4 @@ permalink: /media/
 3. The Texas Tribune: [“Rural Americans more likely to live with chronic pain than urban peers, UT-Arlington study finds”](https://www.texastribune.org/2025/06/23/rural-america-texas-chronic-pain-ut-arlington/); Pain News Network: [“People Who Live in Rural Areas Have More Pain and Less Access to Treatment”](https://www.painnewsnetwork.org/stories/2025/6/18/people-who-live-in-rural-areas-have-more-chronic-pain-and-less-access-to-treatment)
 
 ## 2024
-1. [UTA Researcher Takes Geographic Approach to Health](https://www.uta.edu/news/news-releases/2024/07/18/uta-researcher-takes-geographic-approach-to-health)
+1. Medical Xpress: [“Geographic approach to health finds risk of arthritis pain varies in communities”](https://medicalxpress.com/news/2024-07-geographic-approach-health-arthritis-pain.html)
