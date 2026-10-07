@@ -13,7 +13,7 @@ The University of Texas at Arlington\
 Science and Engineering Innovation and Research Building (SEIR)\
 655 W Mitchell St, Arlington, TX 76010\
 Email: feinuo.sun@uta.edu\
-My [CV](https://github.com/feinuosun/she-lab/blob/main/assets/images/CV_Sun_Feb%202024.pdf)
+My [CV](https://github.com/feinuosun/shape-lab/blob/main/assets/images/CV_Sun_Feb%202024.pdf)
 
 # Research fellows
 ![](zoe.jpeg)
