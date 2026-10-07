@@ -15,8 +15,8 @@ The project fills the literature gap in rural-urban pain differences by examinin
 ## Natural Hazards and Pain
 The goal of this project is to understand how natural-environmental conditions of neighborhoods shape pain outcomes among older adults. The aims include: 1) how long-term, even lifetime exposure, to environmental hazards through the life course shapes pain disparities among older adults; 2) how neighborhood environmental hazards shape pain outcomes differently for different groups.
 
-## Geographic Disparities in Pain
-This project examines geographic disparities in pain prevalence through spatial analysis. We map county-level and state-level distributions of chronic pain conditions and explore the macro-level factors that shape these distributions, including state policies (e.g., SNAP, minimum wage, and tobacco tax) and county-level characteristics. We use national datasets such as the Behavioral Risk Factor Surveillance System and State Policy & Politics Database.
+## Spatial Variations in Pain
+This project maps the geographic distributions of chronic pain conditions at the county and state levels and examines the macro-level factors that shape these patterns, including state policies (e.g., SNAP, minimum wage, and tobacco tax) and county-level characteristics. We use national datasets such as the Behavioral Risk Factor Surveillance System and State Policy & Politics Database.
 
 ## Pain-Related Consequences
 Chronic pain is not only an outcome but also a driver of downstream consequences. This project examines how pain contributes to pain-related consequences among older adults, including disability and functional decline, opioid and other substance-related harms, and adverse mental health outcomes such as depression and anxiety. We explore how these consequences vary across geographic and social contexts to inform prevention and intervention efforts.
