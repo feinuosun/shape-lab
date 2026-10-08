@@ -34,4 +34,7 @@ TBD
 
 # Lab Alumni
 Anika Tasnim Khan (GRA)
+Do Hong Nhung Nguyen (GRA)
+Mohamed Ahmed (GRA)
+Lam Tran (URA)
 
