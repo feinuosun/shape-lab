@@ -16,6 +16,6 @@ Welcome to the Spatial Health and Pain Equity (SHAPE) lab led by Dr. Feinuo Sun 
 </div>
 <div style="flex: 0 1 330px; min-width: 0; text-align: center;">
 <img src="{{ '/assets/images/pain_scale_horizontal.jpg' | relative_url }}" alt="Faces pain scale from worst to no pain" style="max-width: 100%; height: auto; margin-bottom: 0.4rem;" />
-<img src="{{ '/assets/images/home_illustration.png' | relative_url }}" alt="Illustration of neighborhoods, community, and collaboration" style="max-width: 88%; height: auto;" />
+<img src="{{ '/assets/images/home_illustration.png' | relative_url }}" alt="Illustration of neighborhoods, community, and collaboration" style="max-width: 100%; height: auto;" />
 </div>
 </div>
