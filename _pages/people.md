@@ -3,7 +3,7 @@ permalink: /people/
 title: "Principal Investigator"
 toc: true
 ---
-![](profile.png)
+<img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Feinuo Sun" style="max-width: 300px; width: 100%; height: auto;" />
 
 ### Feinuo Sun, Ph.D.
 Assistant Professor\
