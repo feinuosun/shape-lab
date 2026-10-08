@@ -4,8 +4,11 @@ permalink: /
 hidden: false
 ---
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2.5rem; margin-bottom: 1rem;">
-<div style="flex: 1 1 340px; min-width: 0;" markdown="1">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-bottom: 1rem;">
+<div style="flex: 0 1 170px; min-width: 130px; text-align: center;">
+<img src="{{ '/assets/images/pain_scale.jpg' | relative_url }}" alt="Faces pain scale from no pain to worst possible pain" style="max-width: 100%; height: auto; max-height: 430px;" />
+</div>
+<div style="flex: 1 1 330px; min-width: 0;" markdown="1">
 
 # Spatial Health and Pain Equity (SHAPE) Lab
 
@@ -14,7 +17,7 @@ Welcome to the Spatial Health and Pain Equity (SHAPE) lab led by Dr. Feinuo Sun 
 [Learn about our research now](https://feinuosun.github.io/shape-lab/research/){: .btn .btn--primary}
 
 </div>
-<div style="flex: 1 1 340px; min-width: 0; text-align: center;">
+<div style="flex: 1 1 280px; min-width: 0; text-align: center;">
 <img src="{{ '/assets/images/home_illustration.png' | relative_url }}" alt="Illustration of neighborhoods, community, and collaboration" style="max-width: 100%; height: auto;" />
 </div>
 </div>
