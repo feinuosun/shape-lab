@@ -29,6 +29,7 @@ The University of Texas at Arlington
 # Graduate Research Assistants
 ![](jisoo.jpeg)
 ### Ji-Soo Chong
+Masters in Public Health & Masters in Social Work
 # Undergraduate Research Assistants
 TBD
 
