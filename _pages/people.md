@@ -18,9 +18,8 @@ My [CV](https://github.com/feinuosun/shape-lab/blob/main/assets/images/CV_Sun_Fe
 # Research fellows
 ![](zoe.jpeg)
 ### Rui (Zoe) Huang
-PhD Candidate\
-Department of Sociology\
-University at Buffalo, State University of New York
+PhD in Sociology\
+Seattle Children's Research Institute
 
 ![](akib.jpeg)
 ### Akib Zaman
@@ -28,7 +27,8 @@ PhD in Computer Science\
 The University of Texas at Arlington
 
 # Graduate Research Assistants
-TBD
+![](jisoo.jpeg)
+### Ji-Soo Chong
 # Undergraduate Research Assistants
 TBD
 
