@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Spatial Health and Pain Equity Lab"
-title_separator          : 
+title                    : "Spatial Health and Pain Equity (SHAPE) Lab"
+title_separator          : "|"
 subtitle                 : "Led by Dr. Feinuo Sun"
 name                     : "Feinuo Sun"
 description              : "Feinuo Sun, Ph.D., Assistant Professor of Public Health at the University of Texas at Arlington. The Spatial Health and Pain Equity (SHAPE) Lab studies spatial disparities in chronic pain and population health."
