@@ -6,14 +6,14 @@ permalink: /funding/
 
 ## Active Grants
 
-**National Heart, Lung, and Blood Institute (NHLBI), National Institutes of Health**
-R01 Grant (1R01HL178882-01)
-Role: Co-Investigator (Principal Investigator: Renee Manworren)
+**2025–2029**
+"Modeling Inter-individual Differences to Address Pain of Sickle cell disease." National Institutes of Health HEAL Pain NS-24-021 R01 ($5,038,146).
+Role: Co-Investigator (10% effort, PI: Renee Manworren)
 
 ## Completed Grants
 
 **2024–2025**
-"County-Level Variation in Chronic Pain Conditions among the U.S. Medicare Beneficiaries." UTA Research Enhancement Program ($10,384).
+"County-Level Variation in Chronic Pain Conditions among the U.S. Medicare Beneficiaries." UTA Research Enhancement Program ($10,483).
 Role: Principal Investigator
 
 **2024–2025**
