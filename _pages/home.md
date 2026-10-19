@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 hidden: false
+title: "Feinuo Sun"
 ---
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2.5rem; margin-bottom: 1rem;">
