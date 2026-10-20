@@ -15,14 +15,14 @@ permalink: /publications/
 
 8\. Rui Huang, Yuhang Li, and **Feinuo Sun**. 2025. “Welfare policies, joint pain prevalences and educational gaps in 50 U.S. states from 2011 to 2021: A fixed effects analysis.” The Journal of Pain. [link](https://linkinghub.elsevier.com/retrieve/pii/S1526590025007667)
 
-7\. **Sun, Feinuo**, Yulin Yang, and Richard Nahin. 2025. “Prevalence and correlates of ‘undiagnosed pain’—Evidence from the US national Medical Expenditure Panel Survey.” PAIN. [link](https://journals.lww.com/10.1097/j.pain.0000000000003754)
+7\. **Sun, Feinuo**, Yulin Yang, and Richard Nahin. 2025. “Prevalence and correlates of ‘undiagnosed pain’—Evidence from the US national Medical Expenditure Panel Survey.” PAIN. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12709633/)
 
 6\. **Sun, Feinuo**, Yulin Yang, and Richard Nahin. 2025. “Development of chronic pain and high-impact chronic pain across the U.S. rural-urban continuum, 2019-2020.” The Journal of Rural Health. [link](https://onlinelibrary.wiley.com/doi/10.1111/jrh.70036)
 
 ## 2024
 5\. **Sun, Feinuo**, Zachary Zimmer, and Nicolas Brouard. 2024. “Rural-urban residence and life expectancies with and without pain.” Health and Place. [link](https://doi.org/10.1016/j.healthplace.2024.103305)
 
-4\. **Sun, Feinuo**, Anna Zajacova, and Hanna Grol-Prokopczyk. 2024. “The geography of arthritis-attributable activity limitation and pain: A county-level spatial analysis.” PAIN. [link](http://dx.doi.org/10.1097/j.pain.0000000000003155)
+4\. **Sun, Feinuo**, Anna Zajacova, and Hanna Grol-Prokopczyk. 2024. “The geography of arthritis-attributable activity limitation and pain: A county-level spatial analysis.” PAIN. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11190894/)
 
 3\. Zimmer, Zachary, **Feinuo Sun**, and Amber Duynisveld. 2024. “Are we adding pain-free years to life? A test of compression versus expansion of morbidity.” Journal of Gerontology: Medical Sciences. [link](https://doi.org/10.1093/gerona/glae157)
 
