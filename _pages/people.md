@@ -30,6 +30,8 @@ The University of Texas at Arlington
 ![](jisoo.jpeg)
 ### Ji-Soo Chong
 Masters in Public Health & Masters in Social Work
+![](nikita.jpeg)
+### Nikita Chaulagain
 # Undergraduate Research Assistants
 TBD
 
