@@ -32,6 +32,7 @@ The University of Texas at Arlington
 Masters in Public Health & Masters in Social Work
 ![](nikita.jpeg)
 ### Nikita Chaulagain
+Masters in Public Health
 # Undergraduate Research Assistants
 TBD
 
