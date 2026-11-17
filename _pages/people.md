@@ -17,24 +17,24 @@ My [CV](https://github.com/feinuosun/shape-lab/blob/main/assets/images/CV_Sun_Fe
 
 # Research fellows
 <div style="margin-bottom: 1.8em;">
-<img src="zoe.jpeg" alt="Rui (Zoe) Huang" style="display: block; width: 220px; max-width: 100%; margin-bottom: 0.4em;" />
+<img src="{{ '/_pages/zoe.jpeg' | relative_url }}" alt="Rui (Zoe) Huang" style="display: block; width: 220px; max-width: 100%; margin-bottom: 0.4em;" />
 <h3 style="margin-top: 0; margin-bottom: 0.15em;">Rui (Zoe) Huang</h3>
 <p style="margin: 0;">PhD in Sociology<br />Seattle Children's Research Institute</p>
 </div>
 <div style="margin-bottom: 1.8em;">
-<img src="akib.jpeg" alt="Akib Zaman" style="display: block; width: 270px; max-width: 100%; margin-bottom: 0.4em;" />
+<img src="{{ '/_pages/akib.jpeg' | relative_url }}" alt="Akib Zaman" style="display: block; width: 270px; max-width: 100%; margin-bottom: 0.4em;" />
 <h3 style="margin-top: 0; margin-bottom: 0.15em;">Akib Zaman</h3>
 <p style="margin: 0;">PhD in Computer Science<br />The University of Texas at Arlington</p>
 </div>
 
 # Graduate Research Assistants
 <div style="margin-bottom: 1.8em;">
-<img src="jisoo.jpeg" alt="Ji-Soo Chong" style="display: block; width: 300px; max-width: 100%; margin-bottom: 0.4em;" />
+<img src="{{ '/_pages/jisoo.jpeg' | relative_url }}" alt="Ji-Soo Chong" style="display: block; width: 300px; max-width: 100%; margin-bottom: 0.4em;" />
 <h3 style="margin-top: 0; margin-bottom: 0.15em;">Ji-Soo Chong</h3>
 <p style="margin: 0;">Masters in Public Health &amp; Masters in Social Work</p>
 </div>
 <div style="margin-bottom: 1.8em;">
-<img src="nikita.jpeg" alt="Nikita Chaulagain" style="display: block; width: 300px; max-width: 100%; margin-bottom: 0.4em;" />
+<img src="{{ '/_pages/nikita.jpeg' | relative_url }}" alt="Nikita Chaulagain" style="display: block; width: 300px; max-width: 100%; margin-bottom: 0.4em;" />
 <h3 style="margin-top: 0; margin-bottom: 0.15em;">Nikita Chaulagain</h3>
 <p style="margin: 0;">Masters in Public Health</p>
 </div>
