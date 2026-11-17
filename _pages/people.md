@@ -16,23 +16,29 @@ Email: feinuo.sun@uta.edu\
 My [CV](https://github.com/feinuosun/shape-lab/blob/main/assets/images/CV_Sun_Feb%202024.pdf)
 
 # Research fellows
-![](zoe.jpeg)
-### Rui (Zoe) Huang
-PhD in Sociology\
-Seattle Children's Research Institute
-
-![](akib.jpeg)
-### Akib Zaman
-PhD in Computer Science\
-The University of Texas at Arlington
+<div style="margin-bottom: 1.8em;">
+<img src="zoe.jpeg" alt="Rui (Zoe) Huang" style="display: block; width: 220px; max-width: 100%; margin-bottom: 0.4em;" />
+<h3 style="margin-top: 0; margin-bottom: 0.15em;">Rui (Zoe) Huang</h3>
+<p style="margin: 0;">PhD in Sociology<br />Seattle Children's Research Institute</p>
+</div>
+<div style="margin-bottom: 1.8em;">
+<img src="akib.jpeg" alt="Akib Zaman" style="display: block; width: 270px; max-width: 100%; margin-bottom: 0.4em;" />
+<h3 style="margin-top: 0; margin-bottom: 0.15em;">Akib Zaman</h3>
+<p style="margin: 0;">PhD in Computer Science<br />The University of Texas at Arlington</p>
+</div>
 
 # Graduate Research Assistants
-![](jisoo.jpeg)
-### Ji-Soo Chong
-Masters in Public Health & Masters in Social Work
-![](nikita.jpeg)
-### Nikita Chaulagain
-Masters in Public Health
+<div style="margin-bottom: 1.8em;">
+<img src="jisoo.jpeg" alt="Ji-Soo Chong" style="display: block; width: 300px; max-width: 100%; margin-bottom: 0.4em;" />
+<h3 style="margin-top: 0; margin-bottom: 0.15em;">Ji-Soo Chong</h3>
+<p style="margin: 0;">Masters in Public Health &amp; Masters in Social Work</p>
+</div>
+<div style="margin-bottom: 1.8em;">
+<img src="nikita.jpeg" alt="Nikita Chaulagain" style="display: block; width: 300px; max-width: 100%; margin-bottom: 0.4em;" />
+<h3 style="margin-top: 0; margin-bottom: 0.15em;">Nikita Chaulagain</h3>
+<p style="margin: 0;">Masters in Public Health</p>
+</div>
+
 # Undergraduate Research Assistants
 TBD
 
